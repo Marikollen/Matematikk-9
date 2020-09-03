@@ -1,8 +1,8 @@
-### Matematikk-9
+# Matematikk-9
 
-## Kompetansemål etter 9. trinn
+# Kompetansemål etter 9. trinn
 
-# Mål for opplæringa er at eleven skal kunne:
+### Mål for opplæringa er at eleven skal kunne:
 
 -beskrive, forklare og presentere strukturar og utviklingar i geometriske mønster og i talmønster
 
